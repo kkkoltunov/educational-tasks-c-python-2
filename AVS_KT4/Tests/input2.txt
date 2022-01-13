@@ -1,0 +1,8 @@
+1
+derevo 4
+2
+flower 3
+3
+flower1 12
+3
+kust1 2

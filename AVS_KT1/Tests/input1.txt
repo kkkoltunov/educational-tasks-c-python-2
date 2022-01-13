@@ -1,0 +1,44 @@
+1
+name 23
+2
+flower 1
+3
+flower1 1
+2
+flower1 3
+3
+kust1 1
+1
+name1 2123
+1
+name2 3
+1
+name3 223
+1
+name4 1
+1
+name6 23
+3
+flower23 2
+2
+flower1 3
+3
+kust1 1
+1
+derevo1 2123
+1
+derevo 3
+1
+derevo 223
+1
+derevo 1
+1
+derevo 23
+3
+kust1 5
+3
+kust1 3
+3
+kust1 7
+2
+cvetok 2
